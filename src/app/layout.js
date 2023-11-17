@@ -4,10 +4,10 @@ import './styles.css';
 
 function RootLayout({ children }) {
   return (
-    <html lang="en">
+    <html lang='en'>
       <body>
         {children}
-
+        <footer>Dogs are better than cats</footer>
       </body>
     </html>
   );
