@@ -7,7 +7,7 @@ function RootLayout({ children }) {
     <html lang='en'>
       <body>
         {children}
-        <footer>Dogs are better than cats</footer>
+        <footer>Copyright 1999</footer>
       </body>
     </html>
   );
