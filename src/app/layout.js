@@ -13,7 +13,7 @@ function RootLayout({ children }) {
             <a href='/about'>About</a>
           </nav>
         </header>
-        <footer>Dogs are better than cats</footer>
+        <footer>Copyright 1999</footer>
       </body>
     </html>
   );
